@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 def ft_garden_summary():
     name = input("Enter garden name: ")
     number = input("Enter number of plants: ")
